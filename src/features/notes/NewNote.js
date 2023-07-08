@@ -4,7 +4,7 @@ import PulseLoader from 'react-spinners/PulseLoader'
 import useTitle from '../../hooks/useTitle'
 
 const NewNote = () => {
-    useTitle('techNotes: New Note')
+    useTitle('OddJobGin: New Job')
 
     const { users } = useGetUsersQuery("usersList", {
         selectFromResult: ({ data }) => ({

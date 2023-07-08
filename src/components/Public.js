@@ -7,7 +7,7 @@ const Public = () => {
                 <h1>Welcome to <span className="nowrap">Odd Jobs Gin!</span></h1>
             </header>
             <main className="public__main">
-                <p>Located in Beautiful Downtown Foo City, Odd Jobs Gin  provides a trained staff ready to meet your problem  needs.</p>
+                <p>Located in Tokyo, Odd Jobs Gin  provides a trained staff ready to meet your problem  needs.</p>
                 <address className="public__addr">
                     Odd Jobs Gin<br />
                     Tokyo district<br />
