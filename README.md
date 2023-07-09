@@ -16,7 +16,8 @@ A web-based portal where users can login, and depending on their roles assigned,
 ## Features
 - A user can create the jobs and assign them.
 <div align="center">
-    <img src="/screenshots/jobcre.png" width="400px"</img> 
+    <img src="/screenshots/jobcre.png" width="400px"</img>
+    
 - Depending on the role of the user, they can manage the employee by creating or deleting new users of the portal.
   <div align="center">
     <img src="/screenshots/newuse.png" width="400px"</img> 
